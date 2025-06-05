@@ -1,4 +1,4 @@
-# ⭐ Starzbet — Keyifli Zamanlar İçin Modern Bir Platform
+# ⭐ Starzbet — Eğlenceli Anlar Sunan Çağdaş Bir Platform
 
 Starzbet, kullanıcı dostu arayüzüyle çeşitli oyun seçeneklerini bir arada sunan güncel bir platformdur. Rahat ve keyifli bir deneyim için tasarlanmıştır.
 
